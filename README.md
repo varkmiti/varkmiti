@@ -1,5 +1,5 @@
 # 💫 About Me:
-♻️ I'm currently working on a machine learning project to find plastic waste<br>🚊 I'm attending a Ruby on Rails Flatiron x Yale Full-Stack BootCamp<br>🤝 I'm down to collab on anything from data science to web development <br>☝️ Ask me about my research 🧠, classes 😤, or blog ✍️ 
+Incoming Data Scientist at [![BCG X](https://www.bcg.com/x)]
 
 
 ## 🌐 Socials:

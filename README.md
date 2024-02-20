@@ -1,5 +1,5 @@
 # 💫 About Me:
-Incoming Data Scientist at [![BCG X](https://www.bcg.com/x)]
+Incoming Data Scientist at ![BCG X](https://www.bcg.com/x)
 
 
 ## 🌐 Socials:
